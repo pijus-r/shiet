@@ -1,7 +1,7 @@
 # SHIET
 #### Summon Highly Intelligent Error Telepathy
 
-##Huh
+## Huh
 Have you dreamt of opening StackOverflow seconds after receiving an error?
 Well, now you certainly can!
 
