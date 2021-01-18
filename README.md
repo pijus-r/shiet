@@ -1,17 +1,21 @@
-# SHIET
-#### Summon Highly Intelligent Error Telepathy
+## SHIET
+****S****ummon
+****H****ighly
+****I****ntelligent
+****E****rror
+****T****elepathy
 
-## Huh
+### Huh
 Have you dreamt of opening StackOverflow seconds after receiving an error?
 Well, now you certainly can!
 
-## Installation
+### Installation
 
 ```
 npm install shiet --save
 ```
 
-## Usage
+### Usage
 Funtion takes two parameters:
 
 ```javascript
@@ -31,11 +35,11 @@ try {
 
 ```
 
-## Contributions
+### Contributions
 
 ****SHIET**** is an open-sourced package. Contributions of any shape
 are welcome and appreciated.
 
-## License
+### License
 
 ISC © [Pijus Rancevas](https://github.com/pijus-r)
