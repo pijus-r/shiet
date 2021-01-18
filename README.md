@@ -11,7 +11,7 @@ npm install shiet --save
 
 ## Usuage
 ```javascript
-import {shiet} from 'shiet';
+import shiet from 'shiet';
 
 try {
   ...

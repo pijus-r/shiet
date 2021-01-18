@@ -1,6 +1,6 @@
 {
   "name": "shiet",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Redirects your `shiet` to StackOverflow.",
   "main": "index.js",
   "scripts": {
