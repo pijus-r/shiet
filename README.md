@@ -9,7 +9,7 @@ Well, now you certainly can!
 npm install shiet --save
 ```
 
-## Usuage
+## Usage
 ```javascript
 import shiet from 'shiet';
 
