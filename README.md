@@ -1,5 +1,5 @@
 ## SHIET
-****S****ummon
+****S****eek
 ****H****ighly
 ****I****ntelligent
 ****E****rror
