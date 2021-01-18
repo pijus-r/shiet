@@ -1,7 +1,7 @@
 /**
- * Redirects your `shiet` to StackOverflow.
- * @param query    Search query for StackOverflow.
- * @param tags     Search tags for StackOverflow.
+ * Redirects your frustrations to StackOverflow.
+ * @param query    Search query.
+ * @param tags     Search tags.
  */
 function shiet(query, tags) {
     const url = `https://stackoverflow.com/search?q=`;
@@ -11,7 +11,6 @@ function shiet(query, tags) {
         tags.forEach(tag => {
             tagged.push(`[${tag}]`);
         });
-        console.log(tagged, tags);
         open =  url + tagged.toString() + `:${query}`;
     } else {
         open = url + query;
