@@ -1,4 +1,5 @@
-# Shiet
+# SHIET
+###### Summon Highly Intelligent Error Telepathy
 
 Have you dreamt of opening StackOverflow seconds after receiving an error?
 Well, now you certainly can!
@@ -10,6 +11,13 @@ npm install shiet --save
 ```
 
 ## Usage
+Funtion takes two parameters:
+
+```javascript
+shiet(error: string, tags: Array<string>)
+```
+
+Tags parameter is ****optional****.
 
 ```javascript
 import shiet from 'shiet';
@@ -17,14 +25,14 @@ import shiet from 'shiet';
 try {
   ...
 } catch (e) {
-  shiet(e.message);
+  shiet(e.message, ['angular', 'angular material']);
 }
 
 ```
 
 ## Contributions
 
-**_shiet_** is an open-sourced package. Contributions of any shape
+****SHIET**** is an open-sourced package. Contributions of any shape
 are welcome and appreciated.
 
 ## License
