@@ -1,0 +1,30 @@
+{
+  "name": "shiet",
+  "version": "1.0.0",
+  "description": "Redirects your `shiet` to StackOverflow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pijus-r/shiet.git"
+  },
+  "keywords": [
+    "StackOverflow",
+    "debugging",
+    "errors",
+    "error",
+    "stack",
+    "overflow",
+    "console.log",
+    "log",
+    "console"
+  ],
+  "author": "Pijus Rancevas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pijus-r/shiet/issues"
+  },
+  "homepage": "https://github.com/pijus-r/shiet#readme"
+}
