@@ -1,22 +1,22 @@
-## SHIET
+# SHIET
 ****S****eek
 ****H****ighly
 ****I****ntelligent
 ****E****rror
-****T****elepathy
+****T****ransmissions
 
-### Huh?
+## Huh?
 Have you dreamt of opening StackOverflow seconds after receiving an error?
 Well, now you certainly can!
 
-### Installation
+## Installation
 
 ```
 npm install shiet --save
 ```
 
-### Usage
-Funtion takes two parameters:
+## Usage
+Function takes two parameters:
 
 ```javascript
 shiet(error: string, tags: Array<string>)
@@ -35,11 +35,11 @@ try {
 
 ```
 
-### Contributions
+## Contributions
 
 ****SHIET**** is an open-sourced package. Contributions of any shape
 are welcome and appreciated.
 
-### License
+## License
 
 ISC © [Pijus Rancevas](https://github.com/pijus-r)
