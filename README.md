@@ -1,9 +1,9 @@
 # SHIET
-****S****eek
+****S****ummon
 ****H****ighly
 ****I****ntelligent
 ****E****rror
-****T****ransmissions
+****T****ransmission
 
 ## Huh?
 Have you dreamt of opening StackOverflow seconds after receiving an error?
