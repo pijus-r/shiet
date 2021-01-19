@@ -1,6 +1,5 @@
 # 📡  SHIET
-[![npm](./src/npm.svg)](https://aleen42.github.io/badges/src/npm.svg)
-
+[![npm](https://aleen42.github.io/badges/src/npm.svg)]
 ****S****ummon
 ****H****ighly
 ****I****ntelligent
