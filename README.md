@@ -1,4 +1,5 @@
-# SHIET
+# 🕯️ SHIET
+
 ****S****ummon
 ****H****ighly
 ****I****ntelligent
@@ -6,7 +7,7 @@
 ****T****ransmission
 
 ## Huh?
-Have you dreamt of opening StackOverflow seconds after receiving an error?
+Have you ever dreamt of opening StackOverflow seconds after receiving an error?
 Well, now you certainly can!
 
 ## Installation
@@ -19,7 +20,7 @@ npm install shiet --save
 Function takes two parameters:
 
 ```javascript
-shiet(error: string, tags: Array<string>)
+shiet(query: string | number, tags: Array<string>)
 ```
 
 Tags parameter is ****optional****.
@@ -30,7 +31,7 @@ import shiet from 'shiet';
 try {
   ...
 } catch (e) {
-  shiet(e.message, ['angular', 'angular material']);
+  shiet(e.message, ['angular material']);
 }
 
 ```
