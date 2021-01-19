@@ -1,6 +1,6 @@
 {
   "name": "shiet",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Redirects your frustrations to StackOverflow.",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,9 @@
     "overflow",
     "console.log",
     "log",
-    "console"
+    "console",
+    "shit",
+    "FML"
   ],
   "author": "Pijus Rancevas",
   "license": "ISC",

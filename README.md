@@ -1,4 +1,4 @@
-# 🕯️ SHIET
+# 📡 SHIET
 
 ****S****ummon
 ****H****ighly
