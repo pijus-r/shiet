@@ -1,11 +1,13 @@
 # 📡  SHIET
-![npm](https://aleen42.github.io/badges/src/npm.svg) ![](https://img.shields.io/npm/dt/shiet) ![](https://img.shields.io/npm/v/shiet) ![javascript](https://aleen42.github.io/badges/src/javascript.svg)
 
 ****S****ummon
 ****H****ighly
 ****I****ntelligent
 ****E****rror
 ****T****ransmission
+
+![npm](https://aleen42.github.io/badges/src/npm.svg) ![](https://img.shields.io/npm/dt/shiet) ![](https://img.shields.io/npm/v/shiet) ![javascript](https://aleen42.github.io/badges/src/javascript.svg)
+
 
 ## Huh?
 Have you ever dreamt of opening StackOverflow seconds after receiving an error?
